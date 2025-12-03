@@ -19,7 +19,7 @@ This directory captures the baseline enclosure that ships with Get Started kits.
 | Variant | Main Body / Hatch STL | UPS Support | SMA to U.FL Pigtails |
 |---------|-----------------------|-------------|----------------------|
 | Pisugar UPS | `open manet enclosure pisugar ups main body.stl`, `open manet enclosure pisugar ups hatch.stl`, `open manet enclosure pisugar ups external buttons.stl` | Pisugar 3 power platform | 2 × 6" pigtails |
-| Waveshare UPS D | `open manet enclosure WAVESHARE UPS D main body.stl`, `open manet enclosure WAVESHARE UPS D hatch.stl` | Waveshare UPS D + 18650 sled | 2 × 6" pigtails |
+| Waveshare UPS D | `open manet enclosure WAVESHARE UPS D main body.stl`, `open manet enclosure WAVESHARE UPS D hatch.stl` | Waveshare UPS D + 18650 sled | 1 × 6" pigtail |
 | No UPS | `open manet enclosure no ups main body.stl`, `open manet enclosure no ups hatch.stl` | None – direct external power | 1 × 6" pigtail |
 
 All CAD source files (`*.f3z`) for each variant are included for remixing. Keep the SMA jack spacing consistent so the hatch remains reusable between versions.
