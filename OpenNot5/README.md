@@ -6,6 +6,8 @@ The aluminum chassis doubles as a passive heatsink and keeps all IO accessible t
 
 ![Example enclosure build](pics/image.webp)
 
+Printable files and build notes are on MakerWorld: https://makerworld.com/en/models/2128181-openmanet-radio-case
+
 ## Assembly
 1. Print files 
 2. Mount the PI4B and UPS

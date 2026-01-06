@@ -7,7 +7,7 @@ This repository collects 3D-printable and off-the-shelf enclosure designs that s
 | Name | Description |
 |------|-------------|
 | [Get Started Enclosure](GetStarted/README.md) | Simple Snap-fit Raspberry Pi 4 + HaLow enclosure with multiple UPS/no-UPS variants and ABS/ASA print guidance. |
-| [OpenNot5](OpenNot5/README.md) | Aluminum or 3D printed field chassis that integrates a Pi 4B, Waveshare 3S UPS, and waterproof bulkhead connectors. |
+| [OpenNot5](OpenNot5/README.md) | Aluminum or 3D printed field chassis that integrates a Pi 4B, Waveshare 3S UPS, and waterproof bulkhead connectors. MakerWorld listing: https://makerworld.com/en/models/2128181-openmanet-radio-case |
 | [OpenChubNET](OpenChubNET/README.md) | 3D printed, Pi4B, Waveshare UPS D, CAZN connectors. Option for DIY top lids |
 | [Hammond Enclosure](Hammond/README.md) | OpenMANET enclosure for a Pi 4B using a Hammond 1457K1201BK case plus printed cap/carrier tray; optional inline connector simplifies switch-to-PiSugar wiring for easier rework. |
 
