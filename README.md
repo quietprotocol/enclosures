@@ -11,6 +11,12 @@ This repository collects 3D-printable and off-the-shelf enclosure designs that s
 | [OpenChubNET](OpenChubNET/README.md) | 3D printed, Pi4B, Waveshare UPS D, CAZN connectors. Option for DIY top lids |
 | [Hammond Enclosure](Hammond/README.md) | OpenMANET enclosure for a Pi 4B using a Hammond 1457K1201BK case plus printed cap/carrier tray; optional inline connector simplifies switch-to-PiSugar wiring for easier rework. |
 
+## Other Prints
+
+| Name | Description |
+|------|-------------|
+| [GIZOisNT](GIZOisNT_Antenna/README.md) | Tactical Gooseneck Antenna |
+
 ## Photo Gallery
 
 **Get Started**
@@ -32,6 +38,10 @@ This repository collects 3D-printable and off-the-shelf enclosure designs that s
 <img src="Hammond/pics/hammond2.jpg" alt="Hammond enclosure rear angle" width="450" />
 
 <img src="Hammond/pics/pisugar3.png" alt="Hammond enclosure open with PiSugar 3 Plus" width="450" />
+
+**GIZOisNT**
+
+![GIZOisNT](GIZOisNT_Antenna/img/Final_02.jpg)
 
 
 ## Contributing
