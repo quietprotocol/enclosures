@@ -74,7 +74,8 @@ Print laying down. No supports needed
 
 Print laying down or at 45 degree for fewer supports. Supports needed.
 
-- [Top](stl/openMANET_top_usbc_rj45_ntype_sma.stl)
+- [usbc rj45 ntype sma](stl/openMANET_top_usbc_rj45_ntype_sma.stl)
+- [usbc rj45 sma sma](stl/openMANET_top_usbc_rj45_sma_sma.stl)
 
 ## DIY top lids
 
